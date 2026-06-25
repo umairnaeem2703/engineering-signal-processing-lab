@@ -1,0 +1,41 @@
+\contentsline {section}{\numberline {1}Project Premise}{2}{section.1}%
+\contentsline {section}{\numberline {2}Engineering Relevance}{2}{section.2}%
+\contentsline {section}{\numberline {3}Theoretical Background}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Sampling}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Time-Domain to Frequency-Domain Representation}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Nyquist Frequency}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Aliasing}{4}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Frequency Resolution}{4}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Signal-to-Noise Ratio}{4}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Spectral Leakage}{5}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Windowing}{5}{subsection.3.8}%
+\contentsline {section}{\numberline {4}Signal Generation Parameters}{5}{section.4}%
+\contentsline {section}{\numberline {5}Experiment 1: Clean Signal with Adequate Sampling}{5}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Premise}{5}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Results}{6}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Observations}{6}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Discussion}{6}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Experiment 2: Aliasing}{7}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Premise}{7}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Results}{7}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Observations}{8}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Discussion}{8}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Experiment 3: Noise Sensitivity}{8}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Premise}{8}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Results}{9}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Observations}{10}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Discussion}{10}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Experiment 4: Duration and Frequency Resolution}{10}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Premise}{10}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Results}{11}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Close-Frequency Case}{12}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Observations}{13}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Discussion}{13}{subsection.8.5}%
+\contentsline {section}{\numberline {9}Experiment 5: Spectral Leakage and Windowing}{13}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Premise}{13}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Results}{14}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Observations}{15}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Discussion}{15}{subsection.9.4}%
+\contentsline {section}{\numberline {10}Structural Health Monitoring Example}{15}{section.10}%
+\contentsline {section}{\numberline {11}Summary of Results}{16}{section.11}%
+\contentsline {section}{\numberline {12}Conclusion}{16}{section.12}%
