@@ -4,7 +4,8 @@ A project-based portfolio covering signal processing, control systems, system id
 
 ## Topics include
 
-- Sampling
+- Stage 1: Synthetic Vibration Signals
+-- Generation and analysis of synthetic vibration signals to investigate sampling, aliasing, noise, frequency resolution, spectral leakage, and windowing.
 - FFT
 - Spectral Analysis
 - Digital Filters
