@@ -6,7 +6,8 @@ A project-based portfolio covering signal processing, control systems, system id
 
 - Stage 1: Synthetic Vibration Signals
   - Generation and analysis of synthetic vibration signals to investigate sampling, aliasing, noise, frequency resolution, spectral leakage, and windowing.
-- FFT
+- Stage 2: Frequency Analysis using FFT
+  - Detailed implementation of FFT-based spectral analysis, amplitude scaling, phase spectra, power spectral density, zero-padding, and harmonic detection.
 - Spectral Analysis
 - Digital Filters
 - STFT
